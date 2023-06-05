@@ -1,5 +1,5 @@
 import { useState } from "react";
-import AgeCalculator from "./AgeCalculator";
+import AgeCalculator from "./AgeCalculator"
 
 function App() {
   return (
